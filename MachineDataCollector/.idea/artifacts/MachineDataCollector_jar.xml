@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MachineDataCollector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MachineDataCollector_jar</output-path>
+    <root id="archive" name="MachineDataCollector.jar" />
+  </artifact>
+</component>
